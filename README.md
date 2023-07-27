@@ -69,5 +69,21 @@ Below is how each model performed.</br></br>
 Below is how our SVM model performed.</br>
 <img width="334" alt="svm model" src="https://github.com/learn-co-curriculum/dsc-data-visualization-with-pandas/assets/109750154/2b68fea1-e445-42e5-84df-bb22273b3e15">
 </br></br>
-
-
+**b) The RNN model.** </br></br>
+Below is how the RNN model performed. </br>
+![image (1)](https://github.com/learn-co-curriculum/dsc-data-visualization-with-pandas/assets/109750154/eb91c687-1029-44b8-a93a-619a51a93a7f)
+</br>
+**c) The CNN model.** </br> </br>
+Below is how the CNN model worked.</br>
+![image (2)](https://github.com/learn-co-curriculum/dsc-data-visualization-with-pandas/assets/109750154/7c4d339d-28d1-487d-8575-29b72f0ddff3)
+</br>
+**d) The transfomer models(BERT model).** </br>
+Below is how the bert model performed.
+ From the above results, we can conclude that the best performing model was the SVM model hence this is what we shall use in the deployment stage.</br>
+ # 7 ) MODEL DEPLOYMENT.
+ There is really not much to get into, we deployed our best model (SVM) in the streamlit app.
+ # 8) CONCLUSION.
+ Reddit data shows predominantly positive sentiments towards the company.
+The sentiment analysis model demonstrates high accuracy, precision, and recall for positive and neutral sentiments, making it reliable for sentiment analysis.
+# 9) RECOMENDATIONS.
+We would recomend that the from all the models the SVM model be used highly when performing this task of sentiment analysis as its results have proven to be quite high.
