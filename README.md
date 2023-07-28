@@ -78,7 +78,9 @@ Below is how the CNN model worked.</br>
 ![image (2)](https://github.com/learn-co-curriculum/dsc-data-visualization-with-pandas/assets/109750154/7c4d339d-28d1-487d-8575-29b72f0ddff3)
 </br>
 **d) The transfomer models(BERT model).** </br>
-Below is how the bert model performed.
+Below is how the bert model performed.</br>
+<img width="787" alt="baerrt" src="https://github.com/learn-co-curriculum/dsc-data-visualization-with-pandas/assets/109750154/ffbd9060-7bf9-4877-8f42-7c003f5def74">
+</br></br>
  From the above results, we can conclude that the best performing model was the SVM model hence this is what we shall use in the deployment stage.</br>
  # 7 ) MODEL DEPLOYMENT.
  There is really not much to get into, we deployed our best model (SVM) in the streamlit app.
